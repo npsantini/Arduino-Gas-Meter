@@ -2,6 +2,8 @@
 This project was a hardware project that I completed for the CatHacks V hackathon. There are a lot of things to talk about with this project which can all be found in the blog post I wrote about it.
 <br>
 <br>
+Click the link below to see the blog post!
+<br>
 [Arduino Gas Detection Meter Project - Mark I](http://santini.io/blog/arduino-gas-detection-meter-project-mark-i)
 
 <br>
